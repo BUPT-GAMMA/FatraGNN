@@ -1,6 +1,4 @@
-# 
-
-Official Pytorch implementation of WWW'24 paper "Graph Fairness Learning under Distribution Shifts" 
+# Official Pytorch implementation of WWW'24 paper "Graph Fairness Learning under Distribution Shifts" 
 
 
 
