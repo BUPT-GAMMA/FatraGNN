@@ -1,6 +1,7 @@
-# FatraGNN
+# 
 
-This repository (without datasets due to space limit) is the official implementation of Fairness Learning on Graphs under Distribution Shifts. 
+Official Pytorch implementation of WWW'24 paper "Graph Fairness Learning under Distribution Shifts" 
+
 
 
 ## Requirements
